@@ -1,3 +1,5 @@
+![Alt text](https://github.com/diegoMasin/maximumtech/bob/master/assets/img/logo-colorida.png)<br>
+
 # Desafio 7 - Curso GoStack Rocketseat
 
 ```Seguindo o template proposto, criar as seguintes funcionalidades no frontend:```
@@ -13,5 +15,9 @@
 ##### Executar **_yarn test_** para avaliar as diretrizes de avaliação.
 
 ### Instalação Local
+```
 - git clone https://github.com/diegoMasin/desafio-7-curso-rocketseat.git
+```
+```
 - execute no terminal dentro da pasta do projeto: **yarn**
+```
